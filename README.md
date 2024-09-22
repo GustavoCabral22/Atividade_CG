@@ -11,7 +11,7 @@ Lucas Rodrigues Lança - RA: 1292216966
 **Passo 1:** Realizar o download da pasta, contendo os códigos  
 **Passo 2:** Abrir uma IDE, ou outro software que seja possível rodar python (Google Colab, Replit, Etc)  
 **Passo 3:** Dentro da IDE, abrir a pasta com os códigos  
-**Passo 4:** Instalar as bibliotecas "pygame" e "random" no terminal, utilizando o comando "pip install pygame random"  
+**Passo 4:** Instalar as bibliotecas "pygame", "random" e "math"  no terminal, utilizando o comando "pip install pygame random math"  
 **Passo 5:** Rodar os códigos
 
 
@@ -19,46 +19,46 @@ Lucas Rodrigues Lança - RA: 1292216966
 ### Descrição   
 **Objetivo:** Definir objetivo  
 **Imagem/GIF do Resultado:**  
-![Logo do Projeto](https://caminho-da-imagem.com/logo.png)  
+Está localizado na pasta "Imagens" no Github.  
 
 ## Exercício 2    
 ### Descrição   
 **Objetivo:** Definir objetivo  
 **Imagem/GIF do Resultado:**  
-![Logo do Projeto](https://caminho-da-imagem.com/logo.png)  
-
+Está localizado na pasta "Imagens" no Github.  
+ 
 ## Exercício 3 
 ### Descrição   
 **Objetivo:** Definir objetivo  
 **Imagem/GIF do Resultado:**  
-![Logo do Projeto](https://caminho-da-imagem.com/logo.png)  
+Está localizado na pasta "Imagens" no Github.  
 
 ## Exercício 4   
 ### Descrição   
 **Objetivo:** Definir objetivo  
 **Imagem/GIF do Resultado:**  
-![Logo do Projeto](https://caminho-da-imagem.com/logo.png)
+Está localizado na pasta "Imagens" no Github.  
 
 ## Exercício 5   
 ### Descrição   
 **Objetivo:** Definir objetivo  
 **Imagem/GIF do Resultado:**  
-![Logo do Projeto](https://caminho-da-imagem.com/logo.png)  
+Está localizado na pasta "Imagens" no Github.  
 
 ## Exercício 6   
 ### Descrição   
 **Objetivo:** Definir objetivo  
 **Imagem/GIF do Resultado:**  
-![Logo do Projeto](https://caminho-da-imagem.com/logo.png)  
+Está localizado na pasta "Imagens" no Github.   
 
 ## Exercício 7   
 ### Descrição   
 **Objetivo:** Definir objetivo  
 **Imagem/GIF do Resultado:**  
-![Logo do Projeto](https://caminho-da-imagem.com/logo.png)  
+Está localizado na pasta "Imagens" no Github.    
 
 ## Exercício 8   
 ### Descrição   
 **Objetivo:** Definir objetivo  
 **Imagem/GIF do Resultado:**  
-![Logo do Projeto](https://caminho-da-imagem.com/logo.png)  
+Está localizado na pasta "Imagens" no Github.  
