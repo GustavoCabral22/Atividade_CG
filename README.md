@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1HzTA9lb5cJ20779yqSnHSR5RMKSGimO0?usp=dri
 
 ## Exercício 1   
 ### Descrição   
-**Explicação:** Primeiro foi criada uma linha que divide a tela em 4 quadrantes, a linha sai do ponto (0,0). Em cima-esquerda está a letra "a", com um ponto vermelho centralizado;, Em cima-direita está a letra "b", usando variáveis para determinar 2 pontos dentro do qudrante, o usuário informa onde os pontos irão ficar e traça uma linha verde entre eles (para ficar dentro do quadrante o usuário deve digitar números inteiros positivos); Em baixo-direito está a letra "c" com um quadrado amarelo centralizado; Em cima-esquerda está a letra "d", um triângulo equilátero rosa centralizado no seu quadrante.
+**Explicação:** Primeiro foi criada uma linha que divide a tela em 4 quadrantes, a linha sai do ponto (0,0). Em cima-esquerda está a letra "a", com um ponto vermelho centralizado;, Em cima-direita está a letra "b", usando variáveis para determinar 2 pontos dentro do qudrante, o usuário informa onde os pontos irão ficar e traça uma linha verde entre eles (para ficar dentro do quadrante o usuário deve digitar números inteiros positivos); Em baixo-direito está a letra "c" com um quadrado amarelo centralizado; Em baixo-esquerda está a letra "d", um triângulo equilátero rosa centralizado no seu quadrante.
 
 ## Exercício 2    
 ### Descrição
