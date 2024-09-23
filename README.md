@@ -23,7 +23,7 @@ https://drive.google.com/drive/folders/1HzTA9lb5cJ20779yqSnHSR5RMKSGimO0?usp=dri
 
 ## Exercício 2    
 ### Descrição
-**Explicação:** Definir objetivo  
+**Explicação:** Esse código usa o Pygame para criar uma tela e desenhar várias coisas, tipo umas linhas no meio que dividem a tela em quatro partes. Em cada parte, é colocado os triângulos de jeitos diferentes: uns cheios, uns só com o contorno, uns com pontos nos vértices, e por aí vai. A ideia é era juntar toda a lista de exercícios (a, b, c, d) em uma tela somente e mostrar como dá pra desenhar essas formas no Pygame.
  
 ## Exercício 3 
 ### Descrição   
@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1HzTA9lb5cJ20779yqSnHSR5RMKSGimO0?usp=dri
 
 ## Exercício 4   
 ### Descrição   
-**Explicação:** Definir objetivo  
+**Explicação:** Aqui o código cria uma tela com um quadrado verde que você pode mover usando as setas do teclado ou W, A, S, D. O quadrado começa num canto e vai se movendo de acordo com o que você apertar, apertando devagar porque a velocidade é de 1 pixel. A tela fica preta pra “limpar” o desenho anterior e mostrar o quadrado na nova posição. Foi feito assim pra mostrar como funciona o movimento básico de um objeto usando o teclado no Pygame.
 
 ## Exercício 5   
 ### Descrição   
@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1HzTA9lb5cJ20779yqSnHSR5RMKSGimO0?usp=dri
 
 ## Exercício 6   
 ### Descrição   
-**Explicação:** Definir objetivo   
+**Explicação:** Esse código desenha uma casa bem simples na tela usando Pygame. Tem o corpo marrom, o telhado vermelho, duas janelinhas azuis e uma porta no meio. As formas e cores foram escolhidas pra ficar parecido com uma casa básica mesmo. A ideia era desenvolver melhor como desenhar utilizando formas geométricas e montar um desenho mais elaborado usando coisas simples como retângulos e triângulos. 
 
 ## Exercício 7   
 ### Descrição   
@@ -47,4 +47,4 @@ https://drive.google.com/drive/folders/1HzTA9lb5cJ20779yqSnHSR5RMKSGimO0?usp=dri
 
 ## Exercício 8   
 ### Descrição   
-**Explicação:** Definir objetivo  
+**Explicação:** Aqui, a ideia foi montar um grid de quadrados coloridos aleatoriamente no meio da tela. Tem 10 linhas e 10 colunas, e cada quadrado tem 20x20 pixels. As cores são escolhidas de uma lista e colocadas aleatoriamente em cada quadrado. A ideia é mostrar como usar loops pra desenhar um monte de quadrados “certinhos” na tela e brincar com as cores (pois a cada vez que o código é executado, as cores mudam). Foi feito assim pra ver como posicionar as coisas e fazer um visual dinâmico e meio bagunçado com as cores.
